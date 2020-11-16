@@ -1,6 +1,8 @@
 # python-module
 python直接install安装不了一些python包，下载的whl文件集合
 
+## 已迁徙至：https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
 ### whl文件集合
 
 #### python35
