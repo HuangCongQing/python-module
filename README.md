@@ -1,7 +1,7 @@
 # python-module
 python直接install安装不了一些python包，下载的whl文件集合
 
-## 已迁徙至：https://www.lfd.uci.edu/~gohlke/pythonlibs/
+## 已迁徙至：https://github.com/HuangCongQing/python-libraries
 
 ### whl文件集合
 
